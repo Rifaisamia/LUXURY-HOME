@@ -1,0 +1,58 @@
+.choix{
+    display:flex;
+    gap:25px;
+    justify-content: center;
+}
+select{
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color:#3E3D38;
+
+}
+button{
+    border: 15px;
+    margin-top: 25px;
+    margin-left:25px;
+    padding: 10px 10px 10px 10px;
+    
+    border-radius: 10px;
+    background-color: rgb(252, 252, 250);
+}
+body{
+    background-color: #3E3D38;
+}
+.picturs{
+    display:flex;
+    border-radius: 9px;
+    gap:60px;
+
+    justify-content: center;
+    margin-top: 29px;
+}
+#btn{
+   margin-left: 40%;
+}
+#pool{
+    display:flex;
+}
+p{
+    margin-left:30%;
+}
+ul{
+    display: flex;
+    margin-left:30%;
+    gap:20%;
+}
+#ul{
+    gap:60px;
+}
+#swimming{
+    margin-left:30%;
+    
+}
+.kitchen1{
+    margin-left:40%;
+    
+}
+

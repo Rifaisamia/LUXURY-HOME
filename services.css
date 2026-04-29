@@ -1,0 +1,40 @@
+#body{
+    border-radius:20px;
+    background-color: #372e1f;
+    overflow-x: hidden;
+}
+h3{
+    font-family: fantasy;
+    letter-spacing: 3px;
+}
+.card:hover {
+    transform:scale(1.05);
+}
+#envoyer{
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+ul{
+    gap:40px;
+}
+.imgs{
+    display:flex;
+    gap:6px;
+}
+.beth{
+    margin-left:19px;
+}
+.card{
+    background-color: #372e1f;
+    height:600px;
+}
+
+@media screen and (max-width:768px) {
+    .imgs{
+    display:flex;
+    flex-direction: column;
+    gap:6px;
+}
+}
+
+
